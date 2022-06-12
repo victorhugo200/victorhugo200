@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor Hugo
 
 - 🌱 Se especializando em Front-End.
-- 💞️ Hoje trabalho com Front-End, utilziando a tecnologia Angular.
+- 💞️ Hoje atuo no mundo do Front-End, utilizando os frameworks Angular e VueJs
 - 📫Contate-me no email: victorhugodeveloper222@gmail.com
 
 <div align="center">
